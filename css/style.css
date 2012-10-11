@@ -1,0 +1,40 @@
+/*.post_category{	height:auto;}*/
+a:LINK{
+	color:blue;
+}
+
+a:visited{
+	color:#6D05F5;
+}
+
+
+.madmin_post{	padding-left:50px;
+				padding-right:50px;
+				#background-color:#F5F9FA;
+				}
+a.post_title{	cursor:pointer;	color:#067FC9;}
+a.post_title:hover{	color:#ED9702;}
+
+.add-button { 
+   margin:0 1px 0 0; 
+   padding: .2em ; 
+   cursor:pointer; 
+   #position: relative; /* ci servirà più tardi per posizionare le icone */
+   #text-align: center; 
+   #zoom: 1; /* per correggere gli errori di visualizzazione in IE */
+}
+
+.del-button { 
+   margin:0 1px 0 0; 
+   padding: .2em ; 
+   cursor:pointer; 
+   #position: relative; /* ci servirà più tardi per posizionare le icone */
+   #text-align: center; 
+   #zoom: 1; /* per correggere gli errori di visualizzazione in IE */
+}
+
+label{
+	width:100px;
+	margin-left:2px;
+	margin-right:2px;
+}
