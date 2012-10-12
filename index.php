@@ -1,11 +1,26 @@
 <?php
 /*
 Plugin Name: eShop Massive Editing
-Plugin URI: www.elinet.it
-Description: Create a page,for the massive editing .
+Plugin URI: https://github.com/mabullo/eShop-me
+Description: Plugin for the rapid administration of the eshop's product 
 Author: Marco Bullo
 Version: 0.1
 Author URI: 
+
+Copyright 2012  MARCO BULLO  (email : mrcbullo@gmail.com)
+
+This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 */
 include 'include/eShop-me.php';
