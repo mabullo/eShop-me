@@ -220,7 +220,8 @@ class EshopMe{
 		wp_enqueue_script( 'jquery-ui-accordion' );
 		wp_enqueue_script( 'jquery-ui-button' );
 		wp_enqueue_script( 'jquery-ui-dialog' );
-		wp_enqueue_script( 'json',plugins_url().'/eShop-me/js/json2.js' );
+		//wp_enqueue_script( 'json',plugins_url().'/eShop-me/js/json2.js' );
+		wp_enqueue_script('json2');
 	}	
 	
 	public static function setting_page(){
